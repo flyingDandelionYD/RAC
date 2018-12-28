@@ -1,7 +1,7 @@
 # RAC
 带你了解RAC基础以及基本的使用
 
-详见：
+详见简书：
 
 - [RAC（一）](https://www.jianshu.com/p/088dd8fce291)
 - [RAC（二）](https://www.jianshu.com/p/cae3028dc38f)
